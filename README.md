@@ -1,3 +1,5 @@
+![Photo](https://github.com/bylochkaVpekarne/Bylochkavpekarne/blob/main/photo_2026-10-17_13-56-29.jpg)
+
 - 👋 Hi, I'm @Bylochkavpekarne, or just Kirill.
 - 👀 I'm interested in programming and graphic design.
 - 🌱 I can code in Python in VSC.
